@@ -2,7 +2,7 @@
 
 Como terceira parte da aula, com banco de dados, vamos cadastrar os nossos artistas.
 
-## 📑 Arquitetura do Projeto
+## 📑 Arquitetura do Projeto ##
 
 ```
 

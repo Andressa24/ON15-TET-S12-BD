@@ -59,7 +59,7 @@ ReprogramaMusic
 ```
 
 ## ⚙️ Dependencias do Projeto
-    - Mongoose
+    - Mongoose: biblioteca do Nodejs que proporciona uma solução baseada em esquemas para modelar os dados da sua aplicação.
     - Cors
     - Express
     - Nodemom
@@ -120,7 +120,7 @@ Mongodb é um banco de dados NOSQL (não relacional) que surgiu em 2009 e foi de
 mais sobre: [mogodb comandos](https://www.tutorialspoint.com/mongodb/index.htm)
 
 ###  Database
-Acho que já ouvimos a famosa expressão 'quebrei a base de prod' então, nossa database( base de dados ) é constituída por collections, que possui document,  geralmente num projeto, a gente possui diferentes tipos de base, para diferentes tipos de ambientes, como por exemplo: Produção, Homologação, Desenvolvimento, Testes, etc.
+Acho que já ouvimos a famosa expressão 'quebrei a base de prod' então, nossa database (base de dados) é constituída por collections, que possui document,  geralmente num projeto, a gente possui diferentes tipos de base, para diferentes tipos de ambientes, como por exemplo: Produção, Homologação, Desenvolvimento, Testes, etc.
 
 exemplo: criando um banco de dados
 
@@ -156,7 +156,7 @@ exmplo:
 ```
 
 ## ⚙️ Introdução ao ORM
-Um ORM é uma `técnica de desenvolvimento para nós devas`, conseguimos manipular de forma simples o nosso banco, sem ele precisamos de um especialista(DBA). Nos permite fazer como por exemplo `migrations` ( versionamento de base ) de forma simples.
+Um ORM é uma `técnica de desenvolvimento para nós devas`, conseguirmos manipular de forma simples o nosso banco, sem ele precisamos de um especialista (DBA). Nos permite fazer como por exemplo `migrations` ( versionamento de base ) de forma simples.
 
 ### Introdução ao ORM Mongoose
 O ORM Mongoose `não é o banco`, é uma ferramenta que como mencionado acima, facilita o nosso dia-a-dia enquanto devas, ele possui um conjunto recursos / funções que nos auxilia no desenvolvimento.
